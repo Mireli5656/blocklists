@@ -1,0 +1,9 @@
+{
+  "name": "BlockistProject",
+  "website": "https://github.com/blocklistproject/Lists",
+  "description": "agressive adblock.",
+  "source": {
+    "url": "https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt",
+    "format": "domains"
+  }
+}
